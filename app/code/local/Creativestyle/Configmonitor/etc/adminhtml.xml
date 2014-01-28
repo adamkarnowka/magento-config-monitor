@@ -4,7 +4,7 @@
             <children>
                 <configmonitor translate="title" module="creativestyle_configmonitor">
                     <title>Config data monitor</title>
-                    <action>adminhtml_configmonitor/index/index</action>
+                    <action>configmonitor/index/index</action>
                     <sort_order>1</sort_order>
                 </configmonitor>
             </children>
