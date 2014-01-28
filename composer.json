@@ -1,0 +1,20 @@
+{
+    "name": "creativestyle/config-monitor",
+    "type": "magento-module",
+    "description": "Simple module which tracks all config data changes and displays it in grid.",
+    "keywords":["magento","development", "logging"],
+    "homepage":"http://www.creativestyle.de/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Karnowka",
+            "email": "adam.karnowka@creativestyle.pl",
+            "homepage": "http://www.creativestyle.de",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "php": ">=5.2.0"
+    }
+}

@@ -1,0 +1,3 @@
+app/code/local/Creativestyle/Configmonitor  app/code/local/Creativestyle/Configmonitor
+app/design/adminhtml/default/default/layout/creativestyle_configmonitor.xml     app/design/adminhtml/default/default/layout/creativestyle_configmonitor.xml
+app/etc/modules/Creativestyle_Configmonitor.xml     app/etc/modules/Creativestyle_Configmonitor.xml

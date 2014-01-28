@@ -1,0 +1,7 @@
+<layout>
+    <configmonitor_router_index_index>
+        <reference name="content">
+            <block type="creativestyle_configmonitor/adminhtml_grid" />
+        </reference>
+    </configmonitor_router_index_index>
+</layout>

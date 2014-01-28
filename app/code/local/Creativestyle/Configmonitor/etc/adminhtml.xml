@@ -1,0 +1,28 @@
+<config>
+    <menu>
+        <system>
+            <children>
+                <configmonitor translate="title" module="creativestyle_configmonitor">
+                    <title>Config data monitor</title>
+                    <action>adminhtml_configmonitor/index/index</action>
+                    <sort_order>1</sort_order>
+                </configmonitor>
+            </children>
+        </system>
+    </menu>
+    <acl>
+        <resources>
+            <admin>
+                <children>
+                    <system>
+                        <children>
+                            <configmonitor translate="title">
+                                <title>Track config-data changes</title>
+                            </configmonitor>
+                        </children>
+                    </system>
+                </children>
+            </admin>
+        </resources>
+    </acl>
+</config>
